@@ -1,3 +1,5 @@
+<img src="app/favicon.ico" width="64" alt="Pingpong Rally" />
+
 # Pingpong Rally
 
 Keep the ball in the air with your paddle. Track your hits and survival time.
